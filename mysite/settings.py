@@ -25,7 +25,7 @@ SECRET_KEY = 'rojp$!u=%o6gsh!&!-+s*+x)pku(69mt)+m#^=$@1@^uqb^_*e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'easyway.pythonanywhere.com']
 
 
 # Application definition
